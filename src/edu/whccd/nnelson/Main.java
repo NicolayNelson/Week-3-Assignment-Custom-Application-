@@ -11,7 +11,7 @@ public class Main {
         System.out.print ("Enter last name:  ");
         String lastName = input.next();
         System.out.println();
-        System.out.println("Hello "+firstName+", "+lastName+"!");
+        System.out.println("Hello "+lastName+", "+firstName+"!");
 
         System.out.print ("**************** \n");
 
